@@ -1,0 +1,129 @@
+
+.container{
+    margin-bottom: 50px;
+}
+.navbar-brand img{
+ 
+    left: 100px;
+    width: 198px;
+    height: 50px;
+    left: 212px;
+    top: 30px;
+}
+.btn-outline-success{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #FFFFFF;
+background: #21B573;
+border-radius: 33px;
+}
+.top-part{    
+background: #F0FFF0;
+}
+h6{
+    color: #FD511A;
+    font-family: 'Poppins';
+    font-size: 16px;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bold;  
+
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.text-color{
+    color: #21B573;
+}
+.half-width{
+    width:40%;
+    
+    margin-left: 5%;
+    padding-left: 2%;
+    background-color: #F0FFF0;
+   
+}
+.half-width img{
+    width: 100%;
+    
+}
+.top-part{
+    background-color:#F0FFF0;
+}
+p{
+    color: gray;
+}
+#card-1 img{
+    width: 66px;
+    height: 85px;
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    margin-top: 20px;
+   
+    padding: 5px; 
+}
+.card-text{
+    text-align: center;
+}
+.online-courses{
+    text-align: center;
+    color: #413960;
+    font-weight: bold;
+}
+#subject-name img{
+width: 331px;
+height: 234px;
+left: 154px;
+top: 1126px;
+display: block;  
+margin-left: auto;  
+margin-right: auto;  
+margin-top: 20px;
+
+padding: 5px;
+
+}
+.card-title{
+    color: #413960;
+    font-size: 24px;
+   
+}
+.Testimonial{
+    text-align: center;
+}
+#image img{
+    width: 120px;
+height: 120px;
+left: 353px;
+top: 1787px;
+}
+.last-p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+}
+
+footer p{
+    color: white;
+}
+
+footer h6{
+    color: #413960;
+    
+}
+.footer{
+    font-weight: bold;
+}
+
+.last-p{
+    color: #000000;
+    text-align: center;
+}
+ 
